@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Haythem 👋
 
-<!--
-**adalethaythem/adalethaythem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student @ ISIMS Sfax — Big Data & Analytics  
+💻 Full Stack Developer | Android Engineer  
+🌍 Based in Tunisia | Available for Freelance
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** HTML5 · CSS3 · JavaScript  
+**Backend:** PHP · Python · Java  
+**Mobile:** Android Studio · Java SDK  
+**Database:** MySQL · SQL Server  
+**Tools:** Git · VS Code · Eclipse · Anaconda  
+
+## 📂 Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📒 Contact Manager | Full web app built during internship @ STEG | HTML/CSS/JS + PHP + MySQL |
+| 📱 HAWatch | Netflix-inspired Android streaming app | Java + Android Studio |
+
+## 📫 Contact
+
+📧 adalethaythem83@gmail.com  
+🌐 Available on Fiverr

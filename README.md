@@ -1,6 +1,6 @@
 # Hi, I'm Haythem 👋
 
-🎓 CS Student @ ISIMS Sfax — Big Data & Analytics  
+🎓 CS Student  — Big Data & Analytics  
 💻 Full Stack Developer | Android Engineer  
 🌍 Based in Tunisia | Available for Freelance
 
